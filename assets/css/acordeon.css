@@ -10,8 +10,8 @@
 
 .acordeon.open,
 .acordeon:hover{
-    background-color: #55569e;
-    border-color: #55569e;
+    background-color: #161633;
+    border-color: white;
 }
 
 .acordeon .trigger{
@@ -35,7 +35,6 @@
 
 .acordeon .trigger:hover{
     cursor: pointer;
-
 }
 
 .acordeon .trigger::after {

@@ -1,24 +1,12 @@
 {
     "name": "Bianca Soares",
     "photo": "https://avatars.githubusercontent.com/u/122945054?v=4",
-    "job": "Estudante de Análise e Desenvolvimento de Sistemas",
+    "job": "Desenvolvedora Web Front-End",
     "location": "Curitiba/PR",
     "phone": "(41) 99504-8008",
     "email": "biasoares.bianca@gmail.com",
     "skills": {
       "hardSkills": [
-        {
-          "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/js.png"
-        },
-        {
-          "name": "TypeScript",
-          "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/ts.png"
-        },
-        {
-          "name": "Python",
-          "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/py.png"
-        },
         {
           "name": "HTML",
           "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/html.png"
@@ -26,6 +14,10 @@
         {
           "name": "CSS",
           "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/hsoaresbianca/desafioPortfolio/main/assets/img/skills/js.png"
         },
         {
           "name": "Git",
@@ -46,65 +38,57 @@
       ],
       "softSkills": [
         "Organização",
-        "Comunicação",
-        "Pontualidade",
-        "Responsabilidade",
-        "Ética",
-        "Trabalho em equipe"
+        "Cumprimento de prazos",
+        "Pensamento analítico",
+        "Comunicação"
       ]
     },
-    "languages": [
-      "Português (Nativo)",
-      "Inglês (Nível A2 do CEFR)"
-
-    ],
     "portfolio": [
       {
-        "name": "DevLinks - Rocketseat",
-        "url": "https://hsoaresbianca.github.io/devlinks/",
+        "name": "Agregador de Links",
+        "url": "https://hsoaresbianca.github.io/links/",
         "github": true
       },
       {
-        "name": "PetLife - OneBitCode",
+        "name": "Cordel Moderno",
+        "url": "https://hsoaresbianca.github.io/projeto-cordel/",
+        "github": true
+      },
+      {
+        "name": "Android",
+        "url": "https://hsoaresbianca.github.io/projeto-android/",
+        "github": true
+      },
+      {
+        "name": "PetLife",
         "url": "https://hsoaresbianca.github.io/petlife/",
         "github": true
-      },
-      {
-        "name": "LandingPage - Dio",
-        "url": "https://hsoaresbianca.github.io/LandingPage/",
-        "github":true
       },
       {
         "name": "Jogo da Memória - Dio",
         "url": "https://hsoaresbianca.github.io/jogoDaMemoria/",
         "github":true
-      },
-      {
-        "name": "Simulador de Piano - Dio",
-        "url": "https://hsoaresbianca.github.io/pianoVirtual/",
-        "github":true
-      },
-      {
-        "name": "Jogo Detona Ralph - Dio",
-        "url": "https://hsoaresbianca.github.io/jogoDetonaRalph/",
-        "github":true
       }
+    ],
+    "languages": [
+      "Português (Nativo)",
+      "Inglês (Nível A2 do CEFR)"
     ],
     "professionalExperience": [
       {
-        "name": "Advogada (autônoma)",
+        "name": "Advogada",
         "period": "fevereiro/2022 até o momento",
         "description": "Atividades realizadas: Redação de peças jurídicas. Realização de audiências. Análise processual e documental. Cumprimento de prazos. Pesquisa de doutrina e de jurisprudência."
       },
       {
-        "name": "Assistente Jurídico (home office)",
-        "period": "março/2021 a fevereiro/2022",
+        "name": "Assistente Jurídico",
+        "period": "março/2021 - fevereiro/2022",
         "description": "Atividades realizadas: Redação de peças jurídicas. Pesquisa de doutrina e de jurisprudência. Análise processual e documental. Cumprimento de prazos."
       },
       {
-        "name": "Estagiária de graduação de Direito (Tribunal de Justiça do Estado do Paraná - TJPR)",
-        "period": "setembro/2019 a março/2021",
-        "description": "Atividades realizadas: Redação de relatórios e de decisões liminares. Pesquisa de jurisprudência. Análise processual e documental. Trabalho em equipe. Cumprimento de prazos."
+        "name": "Estagiária de graduação de Direito",
+        "period": "setembro/2019 - março/2021",
+        "description": "Atividades realizadas: Redação de relatórios para sentenças. Redação de decisões liminares. Pesquisa de jurisprudência. Análise processual e documental. Trabalho em equipe. Cumprimento de prazos."
       }
     ]
 }
