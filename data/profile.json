@@ -4,7 +4,7 @@
     "job": "Desenvolvedora Web Front-End",
     "location": "Curitiba/PR",
     "phone": "(41) 99504-8008",
-    "email": "biasoares.bianca@gmail.com",
+    "email": "devbiancasoares@gmail.com",
     "skills": {
       "hardSkills": [
         {
@@ -57,11 +57,6 @@
       {
         "name": "Android",
         "url": "https://hsoaresbianca.github.io/projeto-android/",
-        "github": true
-      },
-      {
-        "name": "PetLife",
-        "url": "https://hsoaresbianca.github.io/petlife/",
         "github": true
       }
     ],
